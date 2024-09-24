@@ -16,8 +16,6 @@
 
 ## PHP 資料庫搜尋
 
-## PHP 資料庫搜尋
-
 本系統使用 PHP 來實現資料庫的搜尋功能，主要包含三個核心檔案：`db_connection.php`、`form.php` 和 `results.php`。這些檔案協同運作，提供使用者友好的介面來搜尋和瀏覽名畫資料庫中的作品。
 
 ### 1. `db_connection.php`
